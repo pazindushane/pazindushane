@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pazindu Shane</h1>
+<h1 align="center">Hi 👋, I'm Pasindu Dilmin</h1>
 <h3 align="center">A passionate developer from Sri Lanka 🇱🇰</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pazindushane&label=Profile%20views&color=0e75b6&style=flat" alt="pazindushane" /> </p>
