@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Java,HTML,Css**
 
-- 📫 How to reach me **shanepazindu7399@gmail.com**
+- 📫 Reach me on **shanepazindu7399@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
