@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/pazindu_shane" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="pazindu_shane" height="30" width="40" /></a>
+<a href="https://twitter.com/pazindu_shane" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Pasindu_Dilmin_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/pasindu dilmin weerasinghe" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="pasindu dilmin weerasinghe" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/pazindu shane" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="pazindu shane" height="30" width="40" /></a>
 <a href="https://fb.com/pazindu shàne" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="pazindu shàne" height="30" width="40" /></a>
