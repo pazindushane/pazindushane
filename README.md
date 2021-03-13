@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pazindushane" alt="pazindushane" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/pazindu_shane" target="blank"><img src="https://img.shields.io/twitter/follow/pazindu_shane?logo=twitter&style=for-the-badge" alt="pazindu_shane" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Pasindu_Dilmin_" target="blank"><img src="https://img.shields.io/twitter/follow/pazindu_shane?logo=twitter&style=for-the-badge" alt="pazindu_shane" /></a> </p>
 
 - 🌱 I’m currently learning **Programming and Web development**
 
