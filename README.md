@@ -30,7 +30,7 @@
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/10354364/pazindu-shane" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@5.0.0/icons/stackoverflow.svg" alt="https://stackoverflow.com/users/10354364/pazindu-shane" height="30" width="40" /></a>
 <a href="https://codesandbox.com/pazindu_shane_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@5.0.0/icons/codesandbox.svg" alt="pazindu_shane_" height="30" width="40" /></a>
 <a href="https://kaggle.com/pazindu_shane_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@5.0.0/icons/kaggle.svg" alt="pazindu_shane_" height="30" width="40" /></a>
-<a href="https://fb.com/pazindu shane" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@5.0.0/icons/facebook.svg" alt="pazindu shane" height="30" width="40" /></a>
+<a href="https://fb.com/pazindu shane" target="blank"><img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" alt="pazindu shane" height="30" width="40" /></a>
 <a href="https://instagram.com/pazindu_shane_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@5.0.0/icons/instagram.svg" alt="pazindu_shane_" height="30" width="40" /></a>
 <a href="https://dribbble.com/pazindushane" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@5.0.0/icons/dribbble.svg" alt="pazindushane" height="30" width="40" /></a>
 <a href="https://www.behance.net/pasindudilmin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@5.0.0/icons/behance.svg" alt="pasindudilmin" height="30" width="40" /></a>
