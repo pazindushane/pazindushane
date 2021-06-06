@@ -26,16 +26,16 @@
 <a href="https://codepen.io/pazindu_shane" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@5.0.0/icons/github.svg" alt="pazindu_shane" height="30" width="40" /></a>
 <a href="https://dev.to/pazindu_shane_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="pazindu_shane_" height="30" width="40" /></a>
 <a href="https://twitter.com/pazindu_shane_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@5.0.0/icons/twitter.svg" alt="pazindu_shane_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/pasindu dilmin weerasinghe" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@5.0.0/icons/linkedin.svg" alt="pasindu dilmin weerasinghe" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/pasindu dilmin weerasinghe" target="blank"><img align="center" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/linkedin.png" alt="pasindu dilmin weerasinghe" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/10354364/pazindu-shane" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@5.0.0/icons/stackoverflow.svg" alt="https://stackoverflow.com/users/10354364/pazindu-shane" height="30" width="40" /></a>
 <a href="https://codesandbox.com/pazindu_shane_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@5.0.0/icons/codesandbox.svg" alt="pazindu_shane_" height="30" width="40" /></a>
 <a href="https://kaggle.com/pazindu_shane_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@5.0.0/icons/kaggle.svg" alt="pazindu_shane_" height="30" width="40" /></a>
 <a href="https://fb.com/pazindu shane" target="blank"><img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" alt="pazindu shane" height="30" width="40" /></a>
-<a href="https://instagram.com/pazindu_shane_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@5.0.0/icons/instagram.svg" alt="pazindu_shane_" height="30" width="40" /></a>
+<a href="https://instagram.com/pazindu_shane_" target="blank"><img align="center" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/music.png" alt="pazindu_shane_" height="30" width="40" /></a>
 <a href="https://dribbble.com/pazindushane" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@5.0.0/icons/dribbble.svg" alt="pazindushane" height="30" width="40" /></a>
 <a href="https://www.behance.net/pasindudilmin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@5.0.0/icons/behance.svg" alt="pasindudilmin" height="30" width="40" /></a>
 <a href="https://medium.com/@shanepazindu7399" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@5.0.0/icons/medium.svg" alt="@shanepazindu7399" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/pasindu dilmin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@5.0.0/icons/youtube.svg" alt="pasindu dilmin" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/pasindu dilmin" target="blank"><img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" alt="pasindu dilmin" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/pazindushane" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@5.0.0/icons/codechef.svg" alt="pazindushane" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/shanepazindu7399" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@5.0.0/icons/hackerrank.svg" alt="shanepazindu7399" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/pazindu_shane_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@5.0.0/icons/codeforces.svg" alt="pazindu_shane_" height="30" width="40" /></a>
@@ -43,7 +43,7 @@
 <a href="https://www.hackerearth.com/@shanepazindu7399" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@5.0.0/icons/hackerearth.svg" alt="@shanepazindu7399" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/shanepazindu7399" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@5.0.0/icons/geeksforgeeks.svg" alt="shanepazindu7399" height="30" width="40" /></a>
 <a href="https://www.topcoder.com/members/pasindudilmin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@5.0.0/icons/topcoder.svg" alt="pasindudilmin" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/T6D3cmse" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@5.0.0/icons/discord.svg" alt="https://discord.gg/T6D3cmse" height="30" width="40" /></a>
+<a href="https://discord.gg/https://discord.gg/T6D3cmse" target="blank"><img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" alt="https://discord.gg/T6D3cmse" height="30" width="40" /></a>
 <a href="/https://rss.com/podcasts/pazindushane/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@5.0.0/icons/rss.svg" alt="https://rss.com/podcasts/pazindushane/" height="30" width="40" /></a>
 </p>
 
