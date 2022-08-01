@@ -22,7 +22,7 @@ A Passionate
 
 <div align="center">
 
-![image](https://github.com/pazindushane/pazindushane/blob/main/assets/ppimage.gif)
+![image](https://github.com/pazindushane/pazindushane/blob/master/assets/ppimage.gif)
 </div>
 
 # My Github Status📊
@@ -35,7 +35,7 @@ A Passionate
   Profile 3D Contributions 🔰
 </h3>
 
-![profile 3d](https://github.com/pazindushane/pazindushane/blob/main/profile-3d-contrib/profile-night-rainbow.svg)
+![profile 3d](https://github.com/pazindushane/pazindushane/blob/master/profile-3d-contrib/profile-night-rainbow.svg)
 
 </div>
 
