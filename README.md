@@ -137,5 +137,3 @@ If you like what am I doing at here - please give me a star ⭐
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
 </p>
-
-️.
