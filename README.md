@@ -27,6 +27,8 @@ A Passionate
 
 # My Github Status📊
 
+![Metrics](https://metrics.lecoq.io/pazindushane)
+
 <h3 align="center">
   Profile 3D Contributions 🔰
 </h3>
