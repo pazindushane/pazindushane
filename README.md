@@ -26,10 +26,6 @@ A Passionate
 </div>
 
 # My Github Status📊
-![Metrics](https://metrics.lecoq.io/pazindushane?template=classic&achievements=1&pagespeed=1&base.indepth=false&base.hireable=false&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&pagespeed.url=.user.website&pagespeed.detailed=false&pagespeed.screenshot=false&pagespeed.pwa=false&config.timezone=Asia%2FColombo)
-**** 
-
-<div align="center">
 
 <h3 align="center">
   Profile 3D Contributions 🔰
@@ -58,7 +54,7 @@ Github Stats 🧐
 
 <p align="center"> 
 
-[![pazindushane's github activity graph](https://activity-graph.herokuapp.com/graph?username=pazindushane&theme=gotham)](https://github.com/pazindushane/github-readme-activity-graph&theme=github)
+[![pazindushane's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pazindushane&theme=gotham)](https://github.com/pazindushane/github-readme-activity-graph&theme=github)
 
 </p>
 
