@@ -73,9 +73,8 @@ Github Stats 🧐
   
   <p align="center">
   <a href="https://skyline.github.com/pazindushane/2023" target="_blank" align="center">
-    <h1 align="center"> My Skyline Github Contribution - 2022 </h1>
-    
-   ![Click here to see 👇](https://skyline.github.com/pazindushane/2023)
+    <h1 align="center"> My Skyline Github Contribution - 2023 </h1>
+    <a href="https://skyline.github.com/pazindushane/2023" target="_blank" align="center">Click here to see </a>
   </a>
   </p>
 <br>
