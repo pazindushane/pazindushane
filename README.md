@@ -66,6 +66,7 @@ Github Stats 🧐
 ![snake](https://github.com/pazindushane/pazindushane/blob/main/github-contribution-grid-snake-dark.svg)
 </div>
 <div align="center">
+**Leetcode Stats** <br>
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Pazindushane?ext=contest)
 </div>
 
